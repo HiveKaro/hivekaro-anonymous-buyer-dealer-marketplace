@@ -97,7 +97,7 @@ export default function BuyerDashboard() {
               <CardContent>
                 <div className="w-full h-[600px] rounded-lg overflow-hidden border">
                   <iframe
-                    src="https://docs.google.com/forms/d/e/1FAIpQLSf8Q7xYZ9X2wV3nK5mL6pO9rS8tU7vW9xY0zA1bC2dE3fG4hI/viewform?embedded=true"
+                    src="https://docs.google.com/forms/d/e/1FAIpQLScmoYuCK9tSM1at4UsgZdC4InhqeqKxo3McB8Ni_TkqfEHYJQ/viewform?embedded=true"
                     width="100%"
                     height="100%"
                     frameBorder="0"
