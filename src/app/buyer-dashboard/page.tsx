@@ -108,9 +108,6 @@ export default function BuyerDashboard() {
                     Loading…
                   </iframe>
                 </div>
-                <p className="text-xs text-muted-foreground mt-4 text-center">
-                  Please replace the Google Form URL with your actual form link
-                </p>
               </CardContent>
             </Card>
           </div>

@@ -115,13 +115,13 @@ export default function Footer() {
               © 2024 HiveKaro. All rights reserved.
             </p>
             <div className="flex gap-6 text-sm text-muted-foreground">
-              <Link href="#" className="hover:text-primary transition-colors">
-                Twitter
+              <Link href="https://x.com/HiveKaro" className="hover:text-primary transition-colors">
+                X (Twitter)
               </Link>
-              <Link href="#" className="hover:text-primary transition-colors">
+              <Link href="https://www.linkedin.com/in/hive-karo/" className="hover:text-primary transition-colors">
                 LinkedIn
               </Link>
-              <Link href="#" className="hover:text-primary transition-colors">
+              <Link href="https://www.instagram.com/hivekaro.india/" className="hover:text-primary transition-colors">
                 Instagram
               </Link>
             </div>
