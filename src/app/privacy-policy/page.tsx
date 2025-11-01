@@ -205,7 +205,7 @@ export default function PrivacyPolicyPage() {
                     <div className="text-muted-foreground space-y-2">
                       <p>For privacy questions or concerns:</p>
                       <a 
-                        href="mailto:support@hivekaro.com" 
+                        href="mailto:hivekaro.india@gmail.com" 
                         className="text-primary hover:underline font-semibold flex items-center gap-2"
                       >
                         📧 support@hivekaro.com
