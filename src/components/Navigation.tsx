@@ -22,7 +22,7 @@ export default function Navigation() {
                 src="https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/render/image/public/document-uploads/hk-1761923262135.jpg"
                 alt="HiveKaro Logo"
                 fill
-                className="object-contain"
+                className="rounded-lg"
                 priority
               />
             </div>
