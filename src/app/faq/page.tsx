@@ -4,7 +4,7 @@ import Navigation from "@/components/Navigation";
 import Footer from "@/components/Footer";
 import { Card, CardContent } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
-import { HelpCircle, MessageSquare, Lock, Users, Building2, Shield, Mail, Link as LinkIcon } from "lucide-react";
+import { HelpCircle, MessageSquare, Lock, Users, Building2, Shield, Mail, AlertCircle, Link as LinkIcon } from "lucide-react";
 import { useState } from "react";
 
 interface FAQItem {
