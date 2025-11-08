@@ -39,12 +39,12 @@ export default function Footer() {
                 </Link>
               </li>
               <li>
-                <Link href="#" className="hover:text-primary transition-colors">
+                <Link href="/safety-guidelines" className="hover:text-primary transition-colors">
                   Safety Guidelines
                 </Link>
               </li>
               <li>
-                <Link href="#" className="hover:text-primary transition-colors">
+                <Link href="/faq" className="hover:text-primary transition-colors">
                   FAQ
                 </Link>
               </li>

@@ -46,6 +46,12 @@ export default function Navigation() {
             <Link href="/dealer-dashboard" className="text-sm font-medium hover:text-primary transition-colors">
               Dealer Dashboard
             </Link>
+            <Link href="/safety-guidelines" className="text-sm font-medium hover:text-primary transition-colors">
+              Safety Guidelines
+            </Link>
+            <Link href="/faq" className="text-sm font-medium hover:text-primary transition-colors">
+              FAQ
+            </Link>
           </div>
 
           {/* Contact Us Button */}
@@ -102,6 +108,20 @@ export default function Navigation() {
               onClick={() => setIsOpen(false)}
             >
               Dealer Dashboard
+            </Link>
+            <Link
+              href="/safety-guidelines"
+              className="block text-sm font-medium hover:text-primary transition-colors"
+              onClick={() => setIsOpen(false)}
+            >
+              Safety Guidelines
+            </Link>
+            <Link
+              href="/faq"
+              className="block text-sm font-medium hover:text-primary transition-colors"
+              onClick={() => setIsOpen(false)}
+            >
+              FAQ
             </Link>
             <div className="pt-2">
               <Link href="/contact">
